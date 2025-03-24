@@ -3,7 +3,7 @@ A tool to convert JMDict Japanese dictoinary from .json to .txt for building .md
 
 The dictionary is designed to resemble Jisho.org as close as possible. It features minimal styling (no text styling, unique bordering on example sentences, etc.) to support both light and dark modes of a device. 
 
-Words that can be rewritten as different kanjis to convey different meanings will be separated as different entries for better lookup. For instance, うんぬん has two kanji variants, 云云 and 云々, but they will all share the same definition and you will be able to look for any word in the dictionary. 
+Words that can be rewritten as different kanjis to convey different meanings will be separated as different entries for better lookup. For instance, うんぬん has two kanji variants, 云云 and 云々, but they all share the same definition and you will be able to look for any word in the dictionary. 
 
 # Prerequisite
 You will need Python 3.7+ in order to run the script.
