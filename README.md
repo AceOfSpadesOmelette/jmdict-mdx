@@ -15,7 +15,10 @@ You will need Python 3.7+ in order to run the script.
 Step 1: Download the script from this repo.
 
 Step 2: Grab the latest release of jmdict-eng-<version>+<time>.json.zip from scriptin's jmdict-simplified repo:
+
 https://github.com/scriptin/jmdict-simplified/releases/tag/3.6.1+20250317122830
+
+Extract the .zip. Move/copy the .json to the folder directory same as the script.
 
 Step 3: Open the .py script. Update the fields of input_file and output_file.
 
