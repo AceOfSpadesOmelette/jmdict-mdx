@@ -25,8 +25,8 @@ Step 3: Open the .py script. Update the fields of input_file and output_file.
 Step 4: Run the script and wait for it to complete.
 
 # What's next?
-You should have a .txt output sharing the same name as the .json input. This .txt file is the dictionary file.
+You should now have a .txt output file sharing the same name as the .json input. This .txt file serves as the dictionary file.
 
-You may want to provide the description for your dictionary. Use JMDict.info.txt as reference.
+You may want to provide a description for your dictionary using JMDict.info.txt as a reference.
 
-Get an MDX builder like MdxBuilder.exe to build the dictionary, with said .txt output as the dictionary and JMDict.info.txt as the description. Upon merging, you will get an .mdx file which is compatible to dictionary apps such as MDict.
+Use an MDX builder like MdxBuilder.exe to compile the dictionary, using the .txt output as the dictionary and JMDict.info.txt as the description. Upon merging, you will create an .mdx file compatible with dictionary apps such as MDict.
