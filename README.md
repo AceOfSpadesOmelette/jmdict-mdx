@@ -3,7 +3,9 @@ A tool to convert JMDict Japanese dictoinary from .json to .txt for building .md
 
 # Overview
 The dictionary is designed to closely resemble Jisho.org, featuring minimal styling to accommodate both light and dark modes.
+
 Words that can be represented by different kanji, such as うんぬん (云云, 云々), are listed as separate entries. This allows for easier lookup while maintaining the same definitions across variants.
+
 The output is designed with minimal styling for easy reading and navigation.
 
 # Prerequisite
