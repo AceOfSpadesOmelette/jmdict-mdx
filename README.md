@@ -1,6 +1,10 @@
 # jmdict-mdx
 A tool to convert JMDict Japanese dictoinary from .json to .txt for building .mdx
 
+The dictionary is designed to resemble as close to Jisho.org. It features minimal styling (no text styling, unique bordering on example sentences, etc.) to support both light and dark modes of a device. 
+
+Words that can be rewritten to different kanjis to convey different meanings will be separated as different entries.
+
 # Prerequisite
 You will need Python 3.7+ in order to run the script.
 
