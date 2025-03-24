@@ -1,0 +1,13 @@
+<br>Encoding: UTF-8
+<br>RequiredEngineVersion: 2.0 (MdxBuilder3.0)
+<br>Key case sensitive: No
+<br>Strip Key: Yes
+<br>Title: JMDict Japanese Dictionary V3.6.1
+<br>Description: JMDict Japanese Dictionary, adapted in Jisho.org
+<br>Title：JMDict Japanese Dictionary
+<br>English Name：JMDict Japanese Dictionary
+<br>Original Name：JMDict Japanese Dictionary
+<br>Press: N/A
+<br>Entries： 477,271
+<br>Modified by AceOfSpadesOmlet on 2025-03-13
+<br>Version: v3.6.1 released on 2025-03-10
