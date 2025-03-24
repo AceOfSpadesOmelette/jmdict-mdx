@@ -4,6 +4,7 @@ A tool to convert JMDict Japanese dictoinary from .json to .txt for building .md
 # Prerequisite
 You will need Python 3.7+ in order to run the script.
 
+# Usage
 Step 1: Download the script from this repo.
 
 Step 2: Grab the latest release of jmdict-eng-<version>+<time>.json.zip from scriptin's jmdict-simplified repo:
